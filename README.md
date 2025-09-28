@@ -47,5 +47,4 @@ So với phương pháp **ADC Polling**, việc sử dụng **DMA (Direct Memory
 
 
 
-Mở Serial Monitor (9600 baud), bạn sẽ thấy dữ liệu tương tự như sau:
 
